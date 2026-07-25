@@ -1,5 +1,11 @@
 # Video Speed 2x
 
+[![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/handkeocknnkhenlkhgpebeadnpbjkgl?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/video-speed-2x/handkeocknnkhenlkhgpebeadnpbjkgl) [![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/handkeocknnkhenlkhgpebeadnpbjkgl?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/video-speed-2x/handkeocknnkhenlkhgpebeadnpbjkgl)
+
+**[⬇ Install from the Chrome Web Store](https://chromewebstore.google.com/detail/video-speed-2x/handkeocknnkhenlkhgpebeadnpbjkgl)**
+
+<!-- TODO: screenshot -->
+
 Speed through supported web videos with a simple keyboard shortcut.
 
 ## Use it
@@ -18,3 +24,7 @@ The extension runs locally in the browser and uses Chrome's scripting and storag
 ## License
 
 MIT © Kavil Rawat
+
+---
+
+_Built with [Claude Code](https://claude.com/claude-code)._
